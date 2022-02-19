@@ -1,0 +1,13 @@
+export { Excercise1 } from "./Excercise1";
+export { Excercise2 } from "./Excercise2";
+export { Excercise3 } from "./Excercise3";
+export { Excercise4 } from "./Excercise4";
+export { Excercise5 } from "./Excercise5";
+export { Excercise6 } from "./Excercise6";
+export { Excercise7 } from "./Excercise7";
+export { Excercise8 } from "./Excercise8";
+export { Excercise9 } from "./Excercise9";
+export { Excercise10 } from "./Excercise10";
+export { Excercise11 } from "./Excercise11";
+export { Excercise12 } from "./Excercise12";
+export { Excercise13 } from "./Excercise13";

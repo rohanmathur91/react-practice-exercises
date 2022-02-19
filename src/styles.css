@@ -1,0 +1,44 @@
+@import "https://fonts.googleapis.com/css2?family=Nunito&family=Open+Sans&family=Poppins&family=Roboto&display=swap";
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.toast {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  padding: 4px 8px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 70%;
+  z-index: 1;
+  background-color: lightgray;
+}
+
+.info {
+  color: #1e40af;
+  background-color: #93c5fd;
+}
+
+.success {
+  color: #166534;
+  background-color: #86efac;
+}
+
+.warning {
+  color: #991b1b;
+  background-color: #fca5a5;
+}
+
+.light {
+  color: black;
+}
+
+.dark {
+  color: #fff;
+  background-color: #171923;
+}
