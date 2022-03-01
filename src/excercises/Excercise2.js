@@ -33,7 +33,7 @@ export const Excercise2 = () => {
 
       <div>
         {confirmPassword.length > 0 &&
-          password.length !== confirmPassword.length &&
+          password !== confirmPassword &&
           "Error wrong password 🤨"}
       </div>
     </div>
